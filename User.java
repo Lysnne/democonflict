@@ -1,3 +1,4 @@
 public class User{
-    private String uername;
+    private String username;
+  private String name;
 }
